@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Assignments\FallingObjectsByron\FallingObjectsByron\bin\Debug\FallingObjectsByron.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Assignments\FallingObjectsByron\FallingObjectsByron\bin\Debug\FallingObjectsByron.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Assignments\FallingObjectsByron\FallingObjectsByron\bin\Debug\FallingObjectsByron.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Assignments\FallingObjectsByron\FallingObjectsByron\obj\Debug\FallingObjectsByron.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Assignments\FallingObjectsByron\FallingObjectsByron\obj\Debug\FallingObjectsByron.FallingObjectsFrm.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Assignments\FallingObjectsByron\FallingObjectsByron\obj\Debug\FallingObjectsByron.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Assignments\FallingObjectsByron\FallingObjectsByron\obj\Debug\FallingObjectsByron.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Assignments\FallingObjectsByron\FallingObjectsByron\obj\Debug\FallingObjectsByron.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Assignments\FallingObjectsByron\FallingObjectsByron\obj\Debug\FallingObjectsByron.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Assignments\FallingObjectsByron\FallingObjectsByron\obj\Debug\FallingObjectsByron.pdb

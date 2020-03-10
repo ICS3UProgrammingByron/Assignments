@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FallingObjectsByron", "FallingObjectsByron\FallingObjectsByron.csproj", "{9BE0FEF3-1432-4C84-BD4B-A7FA2F53F079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE0FEF3-1432-4C84-BD4B-A7FA2F53F079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE0FEF3-1432-4C84-BD4B-A7FA2F53F079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE0FEF3-1432-4C84-BD4B-A7FA2F53F079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE0FEF3-1432-4C84-BD4B-A7FA2F53F079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51D21188-493B-45A7-A891-D5B90E8819FF}
+	EndGlobalSection
+EndGlobal
