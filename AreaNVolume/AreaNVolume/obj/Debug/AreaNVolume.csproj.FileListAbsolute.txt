@@ -1,0 +1,9 @@
+C:\Users\Large\Downloads\programming\Assignments\AreaNVolume\AreaNVolume\bin\Debug\AreaNVolume.exe.config
+C:\Users\Large\Downloads\programming\Assignments\AreaNVolume\AreaNVolume\bin\Debug\AreaNVolume.exe
+C:\Users\Large\Downloads\programming\Assignments\AreaNVolume\AreaNVolume\bin\Debug\AreaNVolume.pdb
+C:\Users\Large\Downloads\programming\Assignments\AreaNVolume\AreaNVolume\obj\Debug\AreaNVolume.csprojAssemblyReference.cache
+C:\Users\Large\Downloads\programming\Assignments\AreaNVolume\AreaNVolume\obj\Debug\AreaNVolume.Properties.Resources.resources
+C:\Users\Large\Downloads\programming\Assignments\AreaNVolume\AreaNVolume\obj\Debug\AreaNVolume.csproj.GenerateResource.cache
+C:\Users\Large\Downloads\programming\Assignments\AreaNVolume\AreaNVolume\obj\Debug\AreaNVolume.exe
+C:\Users\Large\Downloads\programming\Assignments\AreaNVolume\AreaNVolume\obj\Debug\AreaNVolume.pdb
+C:\Users\Large\Downloads\programming\Assignments\AreaNVolume\AreaNVolume\obj\Debug\AreaNVolume.frmAreaNVloume.resources
